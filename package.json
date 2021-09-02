@@ -1,7 +1,7 @@
 {
   "name": "prac_17",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "http://{abdulqadeer1999}.github.io/{to-do-list}",
   "dependencies": {
     "-": "0.0.1",
